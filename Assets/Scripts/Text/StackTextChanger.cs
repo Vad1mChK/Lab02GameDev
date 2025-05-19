@@ -30,7 +30,7 @@ namespace Text
 
         public void Reset()
         {
-            throw new NotImplementedException();
+            ResetText();
         }
 
         public void PushText(string newText = "venom")
