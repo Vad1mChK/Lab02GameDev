@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreenScene.unity
+    guid: 6b75ab5e06d743a488d6b89deaefcd2d
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/FailureScene.unity
+    guid: 7dc7c5b0a599e414e811c698ffd6b4d7
+  - enabled: 1
+    path: Assets/Scenes/VictoryScene.unity
+    guid: e4695e085e7e56d45aafa84aa3a953d4
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0990f6d73287c1e40872dc11aa454d0a, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5dfd78604e9cb7440936ddc582f2892c, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6d1613d2c57c7234a9c7886442674286, type: 2}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b16a3a6827342379dce8eb99bdd85f7, type: 3}
+  m_Name: CabinetKey
+  m_EditorClassIdentifier: 
+  itemName: Cabinet Key
+  icon: {fileID: 21300000, guid: d55c0db0f4344f341baf34d4733b6aaf, type: 3}
+  itemType: 1
+  onUseSoundEffect: {fileID: 8300000, guid: 8ff23f19c45ae8249888f6338b168ad8, type: 3}
+  pitchVariation: 1
+  artifactPrefab: {fileID: 0}
+  pickupPrefab: {fileID: 7628349144374143211, guid: 895600e013203fa4ba601b08dfca22e5, type: 3}
+  inHandPrefab: {fileID: 6510093284536052459, guid: c09623cf74ddd7349a262cf7e912659b, type: 3}
+  startPickable: 1
+  reusable: 1
+  doorId: cab

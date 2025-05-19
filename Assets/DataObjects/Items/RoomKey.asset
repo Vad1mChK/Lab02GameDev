@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b16a3a6827342379dce8eb99bdd85f7, type: 3}
+  m_Name: RoomKey
+  m_EditorClassIdentifier: 
+  itemName: Room Key
+  icon: {fileID: 21300000, guid: 40bb97666d0764a4a824c8f5e9aa8362, type: 3}
+  itemType: 1
+  onUseSoundEffect: {fileID: 8300000, guid: 8ff23f19c45ae8249888f6338b168ad8, type: 3}
+  pitchVariation: 1
+  artifactPrefab: {fileID: 0}
+  pickupPrefab: {fileID: 7464184461179558219, guid: 77dd9fb93b3cc864dbdf6099590bba3b, type: 3}
+  inHandPrefab: {fileID: 6510093284536052459, guid: 946549ac390606d4ab1b983150e56cd9, type: 3}
+  startPickable: 1
+  reusable: 1
+  doorId: room

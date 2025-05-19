@@ -1,0 +1,889 @@
+fileFormatVersion: 2
+guid: fa785ed28b3b9764a97bb8f4f4a455b5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1224
+        width: 128
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49be03e2c5cbe5f4bba1776789c5b29d
+      internalID: 862281599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1431226267812438d58c0a7abb1a37
+      internalID: -135191362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 948
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39643af9da4e37a4591a56f8c8ac1610
+      internalID: 1467509079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 948
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745a2a4fff9835c48a6448aa3405566c
+      internalID: 1519231567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 948
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984c9baebe5f05641b85829e79fb5b8a
+      internalID: -2042542500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 948
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeb59bc37475f943a0b568478a0c1bd
+      internalID: -1278849839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_6
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 948
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4677e62243e654542bb0f6bc3110d376
+      internalID: 1836500217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 948
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d346b3e2ac7fa4d89729ced34fb71f
+      internalID: 185716928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_8
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 948
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e30edcd5529a840b263c30bd16426f
+      internalID: -1433097482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_9
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 948
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286001e1a80eafc4b8b4342dec96fd29
+      internalID: 1083358417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_10
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 948
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38a08a3dd81abe48a9a8fe92c0d6f76
+      internalID: -1228247949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7113e527a65058847bc137ad43f9b7fc
+      internalID: 159730822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 688
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33099471b21fec458ff3a4434616a1a
+      internalID: 1064467385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 688
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c2c54e3aabd894ab0f6b0a5f4b5142
+      internalID: 1149400487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 688
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f655854b32b64bf4ab36382fb1afb927
+      internalID: 1466696553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 688
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f934efc73b34340bf34a3d36e2bb29
+      internalID: 2045632082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 688
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53733b3db775274c87f52941ab2311a
+      internalID: -2032029508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 688
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c659d3848ff5e4795e39ad4f0ba86a
+      internalID: 1554357105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_18
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 688
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7619810e0c53e764694a07d714260bd5
+      internalID: -712816428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_19
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 688
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bcb31c4d4c59841ac430b1603ee28c
+      internalID: -647801117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_20
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 695
+        width: 176
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2537d0ede0cbbd4c9d5c34061f2b67d
+      internalID: -47743976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 428
+        width: 320
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24ff19714ef39b419d2a4d5887d8c4f
+      internalID: -1893407594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_22
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 428
+        width: 323
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d08c29174a7844b919699b03754cf6
+      internalID: -1224837253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_23
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 428
+        width: 674
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a82b938d605b8843b8def6e8da38fbd
+      internalID: 68420239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_24
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 428
+        width: 168
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6fb54d84ccc544c8f32a0e8e4ac91a
+      internalID: -497869334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 428
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235242624b8617a468c4c3b11ccf2858
+      internalID: -744599839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_26
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 428
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7354f33794c448a4ba7bd64b784cfd37
+      internalID: 1532315898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 168
+        width: 320
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ba280d844813e4da48f0525fdd2bd4
+      internalID: 999144442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 168
+        width: 323
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40074d1604bde304fb76c39ebe102c10
+      internalID: -337236492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_29
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 168
+        width: 674
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509f967047794cf47a247ea420b125bd
+      internalID: 1083107356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_30
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 168
+        width: 168
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76662efbc7192743ae8db7101b6e25d
+      internalID: -1903589201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_31
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 168
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b350d7f2d74bd3c48ad63327542d8fb8
+      internalID: 166989903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons_by_Prinbles_edited_32
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 175
+        width: 176
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1753f13e12470834eb55be364b9681c0
+      internalID: 739614238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 70d0d2d988919994f8096a4660157d58
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Buttons_by_Prinbles_edited_0: 862281599
+      Buttons_by_Prinbles_edited_1: -135191362
+      Buttons_by_Prinbles_edited_10: -1228247949
+      Buttons_by_Prinbles_edited_11: 159730822
+      Buttons_by_Prinbles_edited_12: 1064467385
+      Buttons_by_Prinbles_edited_13: 1149400487
+      Buttons_by_Prinbles_edited_14: 1466696553
+      Buttons_by_Prinbles_edited_15: 2045632082
+      Buttons_by_Prinbles_edited_16: -2032029508
+      Buttons_by_Prinbles_edited_17: 1554357105
+      Buttons_by_Prinbles_edited_18: -712816428
+      Buttons_by_Prinbles_edited_19: -647801117
+      Buttons_by_Prinbles_edited_2: 1467509079
+      Buttons_by_Prinbles_edited_20: -47743976
+      Buttons_by_Prinbles_edited_21: -1893407594
+      Buttons_by_Prinbles_edited_22: -1224837253
+      Buttons_by_Prinbles_edited_23: 68420239
+      Buttons_by_Prinbles_edited_24: -497869334
+      Buttons_by_Prinbles_edited_25: -744599839
+      Buttons_by_Prinbles_edited_26: 1532315898
+      Buttons_by_Prinbles_edited_27: 999144442
+      Buttons_by_Prinbles_edited_28: -337236492
+      Buttons_by_Prinbles_edited_29: 1083107356
+      Buttons_by_Prinbles_edited_3: 1519231567
+      Buttons_by_Prinbles_edited_30: -1903589201
+      Buttons_by_Prinbles_edited_31: 166989903
+      Buttons_by_Prinbles_edited_32: 739614238
+      Buttons_by_Prinbles_edited_4: -2042542500
+      Buttons_by_Prinbles_edited_5: -1278849839
+      Buttons_by_Prinbles_edited_6: 1836500217
+      Buttons_by_Prinbles_edited_7: 185716928
+      Buttons_by_Prinbles_edited_8: -1433097482
+      Buttons_by_Prinbles_edited_9: 1083358417
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

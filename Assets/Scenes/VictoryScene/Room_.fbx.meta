@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: dbcf66bc999f5a84daddb20238679c78
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArmchairCarcassWood
+    second: {fileID: 2100000, guid: 66209f5c01e6a7648bb82a0de7935f81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArmchairFabric
+    second: {fileID: 2100000, guid: 9b3e6ae14f38066419ab52af206b525d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CabinetDoorWood
+    second: {fileID: 2100000, guid: dead94ba35c9c92479141a2acca96e7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CabinetGlass
+    second: {fileID: 2100000, guid: b7d8c5df56acc0c4083058bf6a45b7a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CabinetMainWood.001
+    second: {fileID: 2100000, guid: 2eeb7301de3ceb54d9175c81d8746721, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling
+    second: {fileID: 2100000, guid: ac191b979ceb94a46963d9daeabaf4ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CouchFabric
+    second: {fileID: 2100000, guid: f78fdf1a03454004e85c27cc0cb93baa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CouchPillowFabric
+    second: {fileID: 2100000, guid: 0b65acc5f65c1b14ab900bc860d9014f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CouchWood
+    second: {fileID: 2100000, guid: 8a9f4c0a10f1b304aa9f51e92e3bf37d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorFrameWood.001
+    second: {fileID: 2100000, guid: 13b44f0344d897d4187e61073992cb0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorMainWood.001
+    second: {fileID: 2100000, guid: 6f05ffbfaec05454dbcea6193dd74233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorPlastic
+    second: {fileID: 2100000, guid: 15b17e815b61ceb47aa3c1aa70bc1946, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorknobGold.001
+    second: {fileID: 2100000, guid: 718a259042985334d90e731d1acf0227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FanPaper
+    second: {fileID: 2100000, guid: d76cddf82e252274b821cb44a0128c46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FanStandPlastic
+    second: {fileID: 2100000, guid: 0b66f5351c15ccf42afd63c01338d2df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FanSticks
+    second: {fileID: 2100000, guid: f048a34e4f7132b4199804eaf14bb707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FireplaceBricks
+    second: {fileID: 2100000, guid: 9d2f2c1543b688e4b823c559073f0d5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FireplaceDoorCopper
+    second: {fileID: 2100000, guid: 5bbc2ca614043464fa81ba6bca197e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FireplaceDoorIron
+    second: {fileID: 2100000, guid: e9b45a1601016554eb6d23f6312d155d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FireplaceWood
+    second: {fileID: 2100000, guid: d17f9470a8b950f47be6cf01230783a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Key
+    second: {fileID: 2100000, guid: fa107a7bb73487048b5ceb867d3be71b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LampFraming.001
+    second: {fileID: 2100000, guid: 456f7a9f9cca65b4d91a87e461ebc810, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LampGlass.001
+    second: {fileID: 2100000, guid: 82c2ffac23cbb6f488fdfe754e733acf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LampWire.002
+    second: {fileID: 2100000, guid: 6805eb2ea719af645be8b102c8b5cf26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LineLampMetal
+    second: {fileID: 2100000, guid: 5811e2a07ae1148479119834c5621df1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaskFixtureCopper
+    second: {fileID: 2100000, guid: 588915e3984294f4baacd12bd10455fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 492b35f32fc75ca4d85d9d9928bfd36b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 2b2b4c982dc8b1c41b44f6fde2461ba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PaintingBigPicture
+    second: {fileID: 2100000, guid: 68fd442f608f94248b7a111fca95fef4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PaintingGold
+    second: {fileID: 2100000, guid: d60fb06c35dd5014cb9bfa904e716d11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PaintingSmallPicture
+    second: {fileID: 2100000, guid: 617e92b5d467e124f801dd4f90f5f93a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SafeCase
+    second: {fileID: 2100000, guid: f063f4813f9c0794494620bb2b24d2d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SafeDoor
+    second: {fileID: 2100000, guid: 8b16cc2071c07b2408b35ea4e481fcf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SconceCandleGlass
+    second: {fileID: 2100000, guid: eef0b52d97b09614fb63f6ff2803b5be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SconceCandleWax
+    second: {fileID: 2100000, guid: 122f986ab68595546a85d9db455efe58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SconceGold
+    second: {fileID: 2100000, guid: cc9d048d2a148f74b832e3cc78770f2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screen.001
+    second: {fileID: 2100000, guid: 1b24480d1d0d0cb4a8a12362d464f877, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SteelSamuraiMask
+    second: {fileID: 2100000, guid: bd00ac31db292da489e20af22e26e632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TVConsoleWood
+    second: {fileID: 2100000, guid: 23bdc402cfd7e3147be8d148797ab195, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TVMetal.001
+    second: {fileID: 2100000, guid: 9e07917964d31f9498e68800466067aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TVPlastic
+    second: {fileID: 2100000, guid: d7c77d31703a7f945bbb8e24103fe6f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VaseLidWood
+    second: {fileID: 2100000, guid: f3fb143c44509054fae660a69bfe7d2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VaseRedCeramic
+    second: {fileID: 2100000, guid: 908fde492ec19604f86b958cd2827631, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallReinforcement
+    second: {fileID: 2100000, guid: e3d0e0d96c57321439a7af7762531796, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wallpaper
+    second: {fileID: 2100000, guid: b5f040c7234b16f458beb3f77a439ea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowFrame
+    second: {fileID: 2100000, guid: a9a28378c9e072d4a9329ce0ff636d9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowLight
+    second: {fileID: 2100000, guid: 9d08ddd4b7b8dbc438246564e5f57a81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodFlooring
+    second: {fileID: 2100000, guid: fb031ab9b9d7d0f4c9de714e62a4f12e, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

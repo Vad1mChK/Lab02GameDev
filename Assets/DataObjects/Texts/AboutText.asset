@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce22ff4b429961948bd995b303e2cca5, type: 3}
+  m_Name: AboutText
+  m_EditorClassIdentifier: 
+  textContent: 'PROGRAMMING, GAME DESIGN, 3D DESIGN
+
+    Vadim K. Chaykin
+
+
+    MUSIC
+
+    Udio
+    AI, Suno AI
+
+
+    SOUND EFFECTS
+
+    https://freesound.org/people/matucha/sounds/114510/
+
+    Various
+    CC0 assets from freesound.org
+
+
+    OTHER ASSETS
+
+    Quick Outline by Chris
+    Nolet
+
+
+    ROOM DESIGN INSPIRED BY
+
+    Phoenix Wright: Ace Attorney - Justice
+    for All
+
+'
