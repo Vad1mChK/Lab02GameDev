@@ -24,7 +24,7 @@ namespace Misc
         {
             if (other.CompareTag("Player"))
             {
-                Debug.Log("The player has entered the exit zone, canceling exit attempt...");
+                Debug.Log("The player has entered the exit zone");
                 _playerInZone = true;
             }
         }
